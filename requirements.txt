@@ -1,0 +1,19 @@
+# GenTwin — Python Dependencies
+# Install with: pip install -r requirements.txt
+
+# Data handling
+pandas>=2.0
+numpy>=1.24
+
+# Machine learning / deep learning
+torch>=2.0          # PyTorch — VAE model
+scikit-learn>=1.3   # StandardScaler for preprocessing
+
+# Simulation
+simpy>=4.1          # discrete-event simulation (digital twin)
+
+# Visualisation
+matplotlib>=3.7
+
+# Dashboard
+streamlit>=1.32
